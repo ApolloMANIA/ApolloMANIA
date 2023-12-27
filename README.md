@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ApolloMANIA
-- 👀 I’m interested in nothing
+- 👀 I’m interested in gamedev
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me
