@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ApolloMANIA
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning c++
+- interested in ML and AI
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me
 - apollomania on discord
