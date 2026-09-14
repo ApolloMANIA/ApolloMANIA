@@ -25,8 +25,6 @@ Passionate about building things that *actually* work and occasionally yelling a
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/eshan-kumar02)  
-- 🐦 [Twitter](https://twitter.com/apollomania) (sometimes I tweet... sometimes)  
-- 🌐 [Portfolio] (coming soon if I stop procrastinating)
 
 ---
 
